@@ -1,0 +1,7 @@
+#подкаталог tmp
+tmp/
+#файлы
+*old
+*backup
+Thumps.db
+.DS_Store
